@@ -5,8 +5,9 @@
     <a href="https://twitter.com/intent/tweet?text=A Liquid effect button built uisng svg and vanila JS.&url=https://github.com/karan-singh-2607/floating-like-button.git&hashtags=javascript,opensource,js,webdev,developers,npm"><img src="http://randojs.com/images/tweetShield.svg" alt="Tweet" height="30"/></a>
 </p><br/><br/>
 
+<img href="https://www.npmjs.com/package/float-button" src="https://github.com/karan-singh-2607/float-like-button/blob/master/screenshot/SS-3.png"/>
 
-TO use the LIquid button in your project -
+To use the LIquid button in your project -
 
 1. - npm install floating-button
 2. - Then Import floating-button in your react project
