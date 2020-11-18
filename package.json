@@ -3,10 +3,10 @@
   "version": "0.1.7",
   "private": false,
   "description": "A Liquid button built with vanila JS and svg",
-  "homepage": "https://github.com/karan-singh-2607/floating-like-button",
+  "homepage": "https://github.com/karan-singh-2607/float-like-button",
   "repository": {
     "type": "git",
-    "url": "https://github.com/karan-singh-2607/floating-like-button.git"
+    "url": "https://github.com/karan-singh-2607/float-like-button.git"
   },
   "license": "MIT",
   "keywords": [
