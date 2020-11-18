@@ -5,7 +5,7 @@
     <a href="https://twitter.com/intent/tweet?text=A Liquid effect button built uisng svg and vanila JS.&url=https://github.com/karan-singh-2607/floating-like-button.git&hashtags=javascript,opensource,js,webdev,developers,npm"><img src="http://randojs.com/images/tweetShield.svg" alt="Tweet" height="30"/></a>
 </p><br/><br/>
 
-<a href="https://www.npmjs.com/package/float-button"><img align="center" src="https://github.com/karan-singh-2607/float-like-button/blob/master/screenshot/SS-3.png"/></a>
+<a align="center" href="https://www.npmjs.com/package/float-button"><img src="https://github.com/karan-singh-2607/float-like-button/blob/master/screenshot/SS-3.png"/></a>
 
 To use the LIquid button in your project -
 
