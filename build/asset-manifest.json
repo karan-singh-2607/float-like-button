@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/karan-singh-2607/floating-like-button/static/css/main.a80a5533.chunk.css",
+    "main.js": "/karan-singh-2607/floating-like-button/static/js/main.90a0a2a8.chunk.js",
+    "main.js.map": "/karan-singh-2607/floating-like-button/static/js/main.90a0a2a8.chunk.js.map",
+    "runtime-main.js": "/karan-singh-2607/floating-like-button/static/js/runtime-main.b6145ed7.js",
+    "runtime-main.js.map": "/karan-singh-2607/floating-like-button/static/js/runtime-main.b6145ed7.js.map",
+    "static/js/2.7d00ab33.chunk.js": "/karan-singh-2607/floating-like-button/static/js/2.7d00ab33.chunk.js",
+    "static/js/2.7d00ab33.chunk.js.map": "/karan-singh-2607/floating-like-button/static/js/2.7d00ab33.chunk.js.map",
+    "index.html": "/karan-singh-2607/floating-like-button/index.html",
+    "precache-manifest.d70a3e55bd500e83e969d27fb13c2bc2.js": "/karan-singh-2607/floating-like-button/precache-manifest.d70a3e55bd500e83e969d27fb13c2bc2.js",
+    "service-worker.js": "/karan-singh-2607/floating-like-button/service-worker.js",
+    "static/css/main.a80a5533.chunk.css.map": "/karan-singh-2607/floating-like-button/static/css/main.a80a5533.chunk.css.map",
+    "static/js/2.7d00ab33.chunk.js.LICENSE.txt": "/karan-singh-2607/floating-like-button/static/js/2.7d00ab33.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b6145ed7.js",
+    "static/js/2.7d00ab33.chunk.js",
+    "static/css/main.a80a5533.chunk.css",
+    "static/js/main.90a0a2a8.chunk.js"
+  ]
+}
