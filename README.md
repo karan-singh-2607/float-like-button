@@ -1,12 +1,10 @@
-<p align="center"><a href="https://github.com/karan-singh-2607/floating-like-button.git"><img src="screenshot/liquid button.gif" alt="Liquid button preview" height="150"/></a></p>
-<h1 align="center">Liquid Button</h1>
-<p align="center">A Liquid effect button built uisng svg and vanila JS, <a href="https://www.npmjs.com/package/floating-button">NPM Repository</a></p>
+<h1 align="center">Floating Button</h1>
+<p align="center">A FLoating effect like button built uisng svg and vanila JS, <a href="https://www.npmjs.com/package/floating-button">NPM Repository</a></p>
 
 <p align="center">
     <a href="https://twitter.com/intent/tweet?text=A Liquid effect button built uisng svg and vanila JS.&url=https://github.com/karan-singh-2607/floating-like-button.git&hashtags=javascript,opensource,js,webdev,developers,npm"><img src="http://randojs.com/images/tweetShield.svg" alt="Tweet" height="30"/></a>
 </p><br/><br/>
 
-## Demo - https://rajesh-royal.github.io/floating-button/build/
 
 TO use the LIquid button in your project -
 
@@ -29,7 +27,7 @@ TO use the LIquid button in your project -
 
    Now you can use more than one floating-buttons on same page.
 
-   Feel free to contribute on github - ( https://github.com/karan-singh-2607/floating-like-button )
+   Feel free to contribute on github - ( https://github.com/karan-singh-2607/float-like-button )
 
 ## This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
